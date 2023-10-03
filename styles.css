@@ -1,0 +1,13 @@
+
+#about-paragraph {
+    background-color: aqua;
+     color: black;
+    padding: 16px;
+    border-radius: 24px;
+   }
+
+    #contact-heading{
+      color: rgb(255, 255, 255);
+      padding: 26;
+      font-family: Georgia, 'Times New Roman', Times, serif;
+    }
