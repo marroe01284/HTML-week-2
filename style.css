@@ -1,0 +1,30 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+.banner-image {
+height: 100%;
+width: 100%;
+
+}
+.banner{
+position: relative;
+height: 524px;
+}
+
+.banner-content{
+    position: absolute;
+    text-align: center;
+    width: 100%;
+    top: 40%;
+    color: blueviolet;
+    background-color: #0c0a0aa9;
+}
+
+.banner-content h1{
+    position: absolute;
+    top: 40%;  
+    text-align: center;
+    width: 100%;
+
+}
