@@ -1,0 +1,22 @@
+section {
+  background: beige;
+    height: 326px;
+    border-radius: 8px;
+    padding: 16px;
+    border: 1px solid lightgrey;
+}
+
+form {
+  height: 100%;
+}
+/* display block space to the side, display inline noe spacing */
+label, input, textarea{
+  display: block;
+}
+
+#message {
+  resize: none;
+}
+.container{
+  margin: 16px 0;
+}
