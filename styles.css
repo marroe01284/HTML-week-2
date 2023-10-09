@@ -31,6 +31,9 @@ section, div{
   text-align-last: center;
   margin: 30px 250px 30px 250px;
   background-color: lightblue;
+  font-family: 'Young Serif', serif;
+  color: rgb(19, 19, 19);
+  border-radius: 4px;
 }
 
 header nav ul {
@@ -58,6 +61,7 @@ margin: 0 16px 0 16px;
   color: whitesmoke;
 }
 
+
 footer {
 background-color:rgba(66, 116, 155, 0.376);
 display: flex;
@@ -69,10 +73,15 @@ padding: 32px 0 32px 0;
 font-family: 'Bebas Neue', sans-serif;
 }
 h1 {
-  font-size: 32px;
+  font-size: 40px;
   font-family: 'Bebas Neue', sans-serif;
 }
 h2 {
-  font-size: 24px;
+  font-size: 32px;
   font-family: 'Bebas Neue', sans-serif;
+}
+button {
+  border-radius: 4px;
+  font-family: 'Bebas Neue', sans-serif;
+  background-color:lightblue ;
 }
